@@ -1,1 +1,1 @@
-[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/aoueldma)](https://github.com/aoueldma/badge42)
+[![parmarti 42 stats](https://badge42.vercel.app/api/v2/cl2jvsvdc00160amh7sn9vfzr/stats?cursusId=21&coalitionId=80)
