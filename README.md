@@ -1,4 +1,4 @@
-[![aoueldma's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aoueldma)](https://github.com/oakoudad/badge42)                                                                                              
+![aoueldma's 42 stats](https://badge.mediaplus.ma/colorfulwaves/aoueldma)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=speranos&show_icons=true&theme=transparent)                                                                                      
 
